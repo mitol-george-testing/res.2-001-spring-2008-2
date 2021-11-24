@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d0423db5-2b0b-be30-511a-284013be2946",
+      "6b9e61d4-dbf0-9624-fcbc-43d281e2ebc1",
+      "f3bebc4c-7da2-4d4d-2016-629e3e53555e",
+      "323bfc44-6bba-6f5f-3612-7aa0a87b8370"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Engineering Design Instructional Computer System (EDICS)",
+  "course_description": "EDICS, or Engineering Design Instructional Computer System, is an interactive multimedia program started in 1981, which consists of three chapters on bearings, rotors and cylinders, lets students with little background in engineering learn about procedures on a computer with text, graphics, animation, sound and diagrams.\n\n[Online Publication](/ans7870/resources/edics/index.htm)\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.2-001",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}

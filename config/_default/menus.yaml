@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-b397c7a988ee4e779ca19b25e9e4dc9e
+  name: Online Publication
+  url: https://ocw.mit.edu/ans7870/resources/edics/index.htm
+  weight: 1000
